@@ -1,0 +1,1 @@
+print("Try to push from pycharm to git using 'git push origin master'")
